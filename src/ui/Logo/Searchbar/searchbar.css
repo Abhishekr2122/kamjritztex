@@ -1,0 +1,13 @@
+.searchbar {
+  /* border: 1px solid brown; */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.search {
+  border-style: none;
+  outline: none;
+  font-size: medium;
+  color: #626f86;
+}

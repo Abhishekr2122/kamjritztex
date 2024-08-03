@@ -1,0 +1,37 @@
+.options {
+  /* border: 1px solid blueviolet; */
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.options-item {
+  color: #44546f;
+  cursor: pointer;
+  /* border: 1px solid green; */
+  padding: 8px;
+}
+
+.options-item:hover {
+  background-color: #e2e4ea;
+  border-radius: 50%;
+}
+
+#notifications {
+  height: 20px;
+  width: 20px;
+}
+#settings {
+  height: 20px;
+  width: 20px;
+}
+
+#help {
+  height: 20px;
+  width: 20px;
+}
+
+#profile {
+  height: 20px;
+  width: 20px;
+}

@@ -1,0 +1,48 @@
+.teams-modal {
+  /* border: 1px solid blue; */
+  width: 320px;
+  height: auto;
+  border-radius: 2px;
+  box-shadow: 0 4px 8px 0 #d3d6de, 0 6px 20px 0 #d3d6de;
+}
+
+.teams-modal-container1 {
+  /* border: 2px solid green; */
+  display: flex;
+  flex-direction: column;
+  border-bottom: 1px solid #dcdfe4;
+  padding-top: 10px;
+}
+
+.teams-modal-btn {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding-left: 15px;
+  padding-right: 10px;
+  cursor: pointer;
+  background-color: transparent;
+  border-style: none;
+
+  /* padding-bottom: 5px; */
+  /* border: 1px solid yellow; */
+}
+
+.teams-modal-icon {
+  color: #172b4d;
+  height: 22px;
+  width: 22px;
+}
+.teams-modal-para {
+  /* border: 1px solid brown; */
+  color: #53627b;
+}
+
+.teams-modal-container2 {
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+
+.teams-modal-container2-text {
+  color: #172b4d;
+}

@@ -1,0 +1,10 @@
+.logo {
+  /* border: 1px solid blue; */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.logo-text {
+  text-align: center;
+}
