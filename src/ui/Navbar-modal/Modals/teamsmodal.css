@@ -4,6 +4,11 @@
   height: auto;
   border-radius: 2px;
   box-shadow: 0 4px 8px 0 #d3d6de, 0 6px 20px 0 #d3d6de;
+  position: fixed;
+  top: 60px;
+  /* left: 510px; */
+  z-index: 1000;
+  background-color: white;
 }
 
 .teams-modal-container1 {
@@ -39,10 +44,25 @@
 }
 
 .teams-modal-container2 {
-  padding-top: 25px;
-  padding-bottom: 25px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
 }
 
 .teams-modal-container2-text {
   color: #172b4d;
+}
+
+.teams-modal-cancel-btn {
+  background-color: rgb(233, 3, 61);
+
+  color: white;
+  padding: 6px 6px;
+  border: transparent;
+  border-radius: 2px;
+  font-weight: 700;
+  cursor: pointer;
 }

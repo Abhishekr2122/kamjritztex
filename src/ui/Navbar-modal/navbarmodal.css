@@ -1,0 +1,7 @@
+.teams-modal-container {
+  position: fixed;
+  /* left: 50%; */
+  z-index: 1000;
+  top: 10%;
+  border: 1px solid red;
+}
