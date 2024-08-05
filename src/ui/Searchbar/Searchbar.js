@@ -1,4 +1,4 @@
-import "../Searchbar/searchbar.css";
+import "./searchbar.css";
 
 import { IoSearch } from "react-icons/io5";
 

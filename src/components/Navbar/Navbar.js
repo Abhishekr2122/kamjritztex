@@ -1,7 +1,7 @@
 import { useState } from "react";
 import "../Navbar/navbar.css";
 import { RiArrowDropDownLine } from "react-icons/ri";
-import NavbarModal from "../../ui/Logo/Navbar-modal/NavbarModal";
+import NavbarModal from "../../ui/Navbar-modal/NavbarModal";
 
 export default function Navbar() {
   const [currentNavItem, setCurrentNavItem] = useState("");

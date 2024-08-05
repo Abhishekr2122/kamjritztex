@@ -1,8 +1,8 @@
 import "../Header/header.css";
 import Logo from "../../ui/Logo/Logo";
 import Navbar from "../Navbar/Navbar";
-import Searchbar from "../../ui/Logo/Searchbar/Searchbar";
-import Options from "../../ui/Logo/Options-container/Options";
+import Searchbar from "../../ui/Searchbar/Searchbar";
+import Options from "../../ui/Options-container/Options";
 
 export default function Header() {
   return (

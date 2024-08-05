@@ -1,4 +1,4 @@
-import "../Sidebar-components/sidebarlist.css";
+import "./sidebarlist.css";
 import { MdOutlineViewTimeline } from "react-icons/md";
 import { HiViewBoards } from "react-icons/hi";
 import { SlCalender } from "react-icons/sl";

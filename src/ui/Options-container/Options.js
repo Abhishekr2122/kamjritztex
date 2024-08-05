@@ -1,4 +1,4 @@
-import "../Options-container/options.css";
+import "./options.css";
 import { FaBell } from "react-icons/fa";
 import { BiSolidHelpCircle } from "react-icons/bi";
 import { IoIosSettings } from "react-icons/io";
