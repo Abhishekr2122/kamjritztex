@@ -22,6 +22,7 @@
   gap: 12px;
   background-color: white;
   border-radius: 2px;
+  box-shadow: 0 4px 8px 0 #888889, 0 6px 20px 0 #c9cacc;
 }
 
 .invite-modal-header {

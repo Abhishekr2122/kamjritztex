@@ -42,7 +42,7 @@ export default function TeamsModal({ modalPosition, setCurrentNavItem }) {
             setCurrentNavItem("");
           }}
         >
-          Close
+          Cancel
         </button>
       </div>
     </div>

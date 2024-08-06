@@ -29,7 +29,7 @@ export default function InviteModal({ setIsInvited, setCurrentNavItem }) {
             Names or emails
           </h5>
           <input
-            type="text"
+            type="email"
             placeholder="e.g., Maria, maria@company.com "
             className="invite-modal-input"
           />

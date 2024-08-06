@@ -58,12 +58,12 @@
 
 .teams-modal-cancel-btn {
   /* background-color: rgb(233, 3, 61); */
-  background-color: blueviolet;
+  background-color: #e2e5e8;
 
-  color: white;
+  color: #172b4d;
   padding: 6px 6px;
   border: transparent;
   border-radius: 2px;
-  font-weight: 700;
+  font-weight: 600;
   cursor: pointer;
 }

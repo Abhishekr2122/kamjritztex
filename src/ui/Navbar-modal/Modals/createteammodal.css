@@ -1,0 +1,28 @@
+.create-team-modal {
+  border: 1px solid black;
+  position: fixed;
+  left: 30%;
+  top: 10%;
+  height: fit-content;
+  width: 50%;
+  background-color: white;
+  border-radius: 2px;
+}
+
+.create-team-modal-header {
+  /* border: 1px solid blue; */
+  margin: 0px;
+  font-weight: 500;
+  color: #172b4d;
+  padding: 10px;
+  font-weight: 400;
+}
+
+.create-team-modal-content-container {
+  /* border: 1px solid green; */
+  display: flex;
+}
+
+.create-team-modal-para {
+  color: #172b4d;
+}
