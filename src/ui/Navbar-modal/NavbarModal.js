@@ -11,10 +11,6 @@ export default function NavbarModal({
     return null;
   }
 
-  // if (currentNavItem === "work") {
-  //   return <div>hello there</div>;
-  // }
-
   if (currentNavItem === "teams") {
     return createPortal(
       <TeamsModal
